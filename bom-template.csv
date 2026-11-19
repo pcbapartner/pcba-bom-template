@@ -1,0 +1,6 @@
+Designator,Quantity,Value,Footprint,Manufacturer,MPN,DNP,Mount,Description
+"R1,R2",2,10k,0603,Yageo,RC0603FR-0710KL,,SMT,"Resistor 10k 1% 0603"
+C1,1,100nF,0402,Murata,GRM155R71C104KA88D,,SMT,"Capacitor 100nF 16V X7R 0402"
+U1,1,,SOIC-8,Texas Instruments,NE555DR,,SMT,"Timer IC"
+J1,1,,PinHeader_1x04_P2.54mm,Amphenol,68001-404HLF,,THT,"Header 1x4 2.54mm"
+R3,1,0R,0603,,,DNP,SMT,"Optional jumper, not fitted"
